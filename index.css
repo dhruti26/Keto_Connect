@@ -1,0 +1,22 @@
+.heading{
+    display: flex;
+}
+
+#login_signup{
+    margin-left: 900px;
+    margin-top: 25px;
+}
+
+#navbar{
+    display: flex;
+    
+}
+
+#flexview{
+    display: flex;
+}
+
+#rightalign
+{
+    margin-left: 20px;
+}
